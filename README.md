@@ -27,7 +27,7 @@ I am a Software Engineer with a strong foundation in logic and systems. My focus
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=DDFD00" alt="Spring Boot" height="40" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=DDFD00" alt="Python" height="40" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=DDFD00" alt="TypeScript" height="40" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=DDFD00" alt="C#" height="40" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=cplusplus&logoColor=DDFD00" alt="C#" height="40" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=DDFD00" alt="MySQL" height="40" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=DDFD00" alt="PostgreSQL" height="40" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=DDFD00" alt="MongoDB" height="40" />
