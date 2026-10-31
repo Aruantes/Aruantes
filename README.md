@@ -22,7 +22,7 @@ I am a Software Engineer with a strong foundation in logic and systems. My focus
 
 ### <img src="https://api.iconify.design/octicon/dot-fill-24.svg?color=%23DDFD00" width="24" height="24" alt="•" style="vertical-align: middle;" /> TECH STACKS
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=DDFD00" alt="Java" height="40" />
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=DDFD00" alt="Spring Boot" height="40" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=DDFD00" alt="Python" height="40" />
