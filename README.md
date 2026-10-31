@@ -8,15 +8,15 @@
 
 <div align="center">
   <h1>ARUANTES</h1>
-  <h3>BACKEND DEVELOPER | JAVA, PYTHON & TYPESCRIPT</h3>
-  <p>Backend development, business logic implementation, and database modeling with Java (Spring Boot), Python, and TypeScript.</p>
+  <h3>BACKEND DEVELOPER | JAVA, PYTHON, C# & TYPESCRIPT</h3>
+  <p>Backend development, business logic implementation, and database modeling with Java, Python, C# and TypeScript.</p>
 </div>
 
 <br/>
 
 ### <img src="https://api.iconify.design/octicon/dot-fill-24.svg?color=%23DDFD00" width="24" height="24" alt="•" style="vertical-align: middle;" /> ABOUT ME
 
-I am a Software Engineering undergraduate student with a strong foundation in logic and systems. My focus is on software architecture, complex business rules, and database modeling.
+I am a Software Engineer with a strong foundation in logic and systems. My focus is on software architecture, complex business rules, and database modeling.
 
 <br/>
 
