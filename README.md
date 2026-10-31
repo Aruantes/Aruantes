@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h1>LUIZ ARUANTES</h1>
+  <h1>ARUANTES</h1>
   <h3>BACKEND DEVELOPER | JAVA, PYTHON & TYPESCRIPT</h3>
   <p>Backend development, business logic implementation, and database modeling with Java (Spring Boot), Python, and TypeScript.</p>
 </div>
@@ -35,5 +35,7 @@ I am a Software Engineering undergraduate student with a strong foundation in lo
 ### <img src="https://api.iconify.design/octicon/dot-fill-24.svg?color=%23DDFD00" width="24" height="24" alt="•" style="vertical-align: middle;" /> GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aruantes&show_icons=true&bg_color=000000&title_color=DDFD00&text_color=ffffff&icon_color=DDFD00&border_color=DDFD00&hide_border=false" alt="Luiz Aruantes GitHub Stats" />
+  <a href="https://github.com/aruantes">
+    <img src="https://github-readme-stats.vercel.app/api?username=aruantes&show_icons=true&bg_color=000000&title_color=DDFD00&text_color=ffffff&icon_color=DDFD00&border_color=DDFD00" alt="Luiz Aruantes GitHub Stats" />
+  </a>
 </div>
