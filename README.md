@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Aruantes/Aruantes/blob/main/Divisor%20HUD%20Neon%20Futurista.png?raw=true" alt="HUD Ornament" width="100%" />
+  <img src="https://github.com/Aruantes/Aruantes/blob/main/Divisor%20HUD%20Neon%20Futurista%20(1).png?raw=true" alt="HUD Ornament" width="100%" />
   <br/>
   <img src="https://github.com/Aruantes/Aruantes/blob/main/banner_blog_github.png?raw=true" alt="Cyberpunk Banner" width="100%" height="200" style="object-fit: cover;" />
 </div>
@@ -33,11 +33,3 @@ I am a Software Engineering undergraduate student with a strong foundation in lo
 </div>
 
 <br/>
-
-### <img src="https://api.iconify.design/octicon/dot-fill-24.svg?color=%23DDFD00" width="24" height="24" alt="•" style="vertical-align: middle;" /> GITHUB STATS
-
-<div align="center">
-  <a href="https://github.com/Aruantes">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aruantes&show_icons=true&bg_color=000000&title_color=DDFD00&text_color=ffffff&icon_color=DDFD00&border_color=DDFD00" alt="GitHub Stats" />
-  </a>
-</div>
