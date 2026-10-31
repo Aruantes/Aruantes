@@ -38,4 +38,9 @@ I am a Software Engineer with a strong foundation in logic and systems. My focus
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=DDFD00" alt="Vercel" height="40" />
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://github.com/Aruantes/Aruantes/blob/main/Divisor%20HUD%20Neon%20Futurista%20(1).png?raw=true" alt="HUD Ornament" width="100%" />
+</div>
+
 <br/>
