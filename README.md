@@ -33,8 +33,8 @@ I am a Software Engineer with a strong foundation in logic and systems. My focus
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=DDFD00" alt="MongoDB" height="40" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=DDFD00" alt="Git" height="40" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DDFD00" alt="GitHub" height="40" />
-  <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=DDFD00" alt="Heroku" height="40" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=DDFD00" alt="Microsoft Azure" height="40" />
+  <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0RERkQwMCIgZD0iTTQgM2g0djE4SDR6TTE2IDNoNHYxOGgtNHpNOCAxMGg4djRIOHoiLz48L3N2Zz4=&logoWidth=20" alt="Heroku" height="40" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0RERkQwMCIgZD0iTTkgM2g2bDcgMThoLTVsLTUtMTMtNSAxM0gyeiIvPjwvc3ZnPg==&logoWidth=20" alt="Microsoft Azure" height="40" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=DDFD00" alt="Vercel" height="40" />
 </div>
 
